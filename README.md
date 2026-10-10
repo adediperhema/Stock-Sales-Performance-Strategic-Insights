@@ -91,7 +91,6 @@ The dashboards built with Power BI and Excel include the following visuals:
 - Sales by category
 - Interactive filters for product and region comparison
   
-<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/Sales%20performance%20dashboard%20image%201.png" />
 <img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/Sales%20performance%20dashboard%20image%202.png" />
 
 ### Key Insights
