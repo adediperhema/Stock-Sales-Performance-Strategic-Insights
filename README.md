@@ -29,20 +29,6 @@ The dataset consists of authenticated customer transactions tracking core operat
 Sample Preview
 <img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/sales%20anaysis%20table%20sample%20data.png" />
 
-OrderID
-	OrderDate
-	CustomerName	Gender	Product	Category	Quantity	UnitPrice	Total Sales	Performance	City	Salesperson
-1	2026-04-01	Peter Doe	Female	Printer	Electronics	2	250	500	High	Accra	Emeka
-2	2026-07-02	John Mensah	Male	Laptop	Electronics	10	1200	12000	High	Accra	Emeka
-3	2026-07-08	James Cole	V	Mouse	Electronics	9	25	225	High	Kumasi	Bob
-4	2026-09-06	Kofi Asare	Female	Printer	Electronics	7	250	1750	High	Accra	Diana
-5	2026-11-20	Peter Doe	Male	Laptop	Electronics	6	1200	7200	High	Abuja	Alice
-6	2026-11-20	Sarah Ann	NA	Notebook	Stationery	5	5	25	Low	Accra	Bob
-7	2026-04-28	Mary Boakye	Female	Desk	Furniture	2	180	360	Low	Lagos	Bob
-8	2026-04-22	Peter Doe	Male	Desk	Furniture	6	180	1080	High	Accra	Bob
-9	2026-07-09	Grace Agyeman	Female	Mouse	Electronics	8	25	200	Low	Kumasi	Alice
-10	2026-06-13	Peter Doe	Male	Mouse	Electronics	1	25	25	Low	Accra	Charles
-
 
 ### Data Cleaning Process
 • Converted OrderDate to proper date format
@@ -105,6 +91,7 @@ The dashboards built with Power BI and Excel include the following visuals:
 • Sales by category
 • Interactive filters for product and region comparison
   
+<img width="262" height="192" alt="dashboard" src="" />
 <img width="262" height="192" alt="dashboard" src="" />
 
 ### Key Insights
