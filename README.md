@@ -111,7 +111,7 @@ C. Revenue peaked profoundly in Q2 at 80,595 before dropping to 55,405 in Q3. In
 
 Dataset Source
 
-[Download Here](https://github.com](https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/Stock%20Sales%20Dataset.xlsx))
+[Download Here](https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/Stock%20Sales%20Dataset.xlsx))
 
 
 
