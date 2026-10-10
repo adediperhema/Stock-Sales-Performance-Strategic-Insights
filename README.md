@@ -91,8 +91,8 @@ The dashboards built with Power BI and Excel include the following visuals:
 - Sales by category
 - Interactive filters for product and region comparison
   
-<img width="262" height="192" alt="dashboard" src="" />
-<img width="262" height="192" alt="dashboard" src="" />
+<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/Sales%20performance%20dashboard%20image%201.png" />
+<img width="2000" height="1000" alt="dashboard" src="" />
 
 ### Key Insights
 A. Product and Category Concentration: The Electronics vertical serves as the primary core engine of the firm, accounting for 181,250, or 90.60% of total enterprise revenue. Within Electronics, Laptops yielded the highest revenue of 157,200 (78.57% of total sales). Conversely, Notebooks represented the lowest revenue-generating line at only 340 (0.17%).
