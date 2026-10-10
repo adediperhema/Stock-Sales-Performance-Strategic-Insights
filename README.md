@@ -84,12 +84,12 @@ ORDER BY TotalSalesAmount DESC;
 
 ### Power BI Dashboard
 The dashboards built with Power BI and Excel include the following visuals:
-• Revenue over time
-• Regional sales performance
-• Best and worst-performing products
-• Monthly and quarterly growth trends
-• Sales by category
-• Interactive filters for product and region comparison
+- Revenue over time
+- Regional sales performance
+- Best and worst-performing products
+- Monthly and quarterly growth trends
+- Sales by category
+- Interactive filters for product and region comparison
   
 <img width="262" height="192" alt="dashboard" src="" />
 <img width="262" height="192" alt="dashboard" src="" />
