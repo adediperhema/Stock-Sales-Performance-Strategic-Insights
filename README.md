@@ -31,11 +31,11 @@ Sample Preview
 
 
 ### Data Cleaning Process
-• Converted OrderDate to proper date format
-• Remove duplicate records.
-• Identify and handle blank cells.
-• Standardize text fields (e.g., proper case for names).
-• Created new calculated field:  Total Sales = Quantity * UnitPrice
+- Converted OrderDate to proper date format
+- Remove duplicate records.
+- Identify and handle blank cells.
+- Standardize text fields (e.g., proper case for names).
+- Created new calculated field:  Total Sales = Quantity * UnitPrice
 
 ### Exploratory Analysis 
 1. Total Revenue(TotalSalesAmount)
